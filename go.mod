@@ -1,3 +1,3 @@
-module github.com/gradgrind/minion/gominion
+module github.com/gradgrind/gominion
 
 go 1.23
